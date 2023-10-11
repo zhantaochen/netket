@@ -33,6 +33,8 @@ from ._kinetic import KineticEnergy
 from ._potential import PotentialEnergy
 from ._sumoperators import SumOperator
 
+from ._time_derivative import TimeDerivativeOperator
+
 from . import spin, boson
 
 from netket.utils import _auto_export

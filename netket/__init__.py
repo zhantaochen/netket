@@ -55,5 +55,5 @@ from . import (
 
 
 # Main applications
-from .driver import VMC
+from .driver import VMC, TDVMC
 from .driver import SteadyState
